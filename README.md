@@ -2,6 +2,7 @@
 
 > A Vue.js project
 
+[预览](https://wispys.github.io/Wisper.github.io/)
 ## Build Setup
 
 ``` bash
@@ -18,4 +19,3 @@ npm run build
 npm run build --report
 ```
 
-For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
