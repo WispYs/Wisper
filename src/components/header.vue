@@ -15,7 +15,7 @@
             </div>
         </header>
         <div class="banner" v-if="showState">
-            <h3>A FREE RESPONSIVE SITE TEMPLATE</h3>
+            <h3>拿梦想做赌注,我怎么舍得输</h3>
         </div>
     </div>
 </template>
