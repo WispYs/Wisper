@@ -53,6 +53,7 @@
                     color:white;
                     float:left;
                     font-size: 26px;
+                    text-shadow:0 0 5px white,0 0 15px white
                 }
                 nav{
                     float:right;
@@ -86,6 +87,7 @@
                 color: rgba(255, 255, 255, 0.75);
                 font-weight: 700;
                 text-align: center;
+                //text-shadow:0 0 5px white,0 0 15px white
             }
 
             h3:before {

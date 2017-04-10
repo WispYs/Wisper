@@ -9,7 +9,7 @@ import headerTop from '../../components/header'
     export default {
         data() {
             return {
-                bannerShow : false
+                
             }
         },
         components:{
