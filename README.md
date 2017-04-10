@@ -2,7 +2,7 @@
 
 > A Vue.js project
 
-[预览](https://wispys.github.io/Wisper.github.io/dist.index.html)
+[预览](https://wispys.github.io/Wisper.github.io/dist/)
 ## Build Setup
 
 ``` bash
