@@ -14,17 +14,16 @@
                 </nav>
             </div>
         </header>
-        <div class="banner" v-if="showState">
+        <div class="banner" v-if="this.bannerShow">
             <h3>拿梦想做赌注,我怎么舍得输</h3>
         </div>
     </div>
 </template>
 <script>
     export default {
-        props: ['bannerShow'],
-        data() {
-            return {
-               showState : this.bannerShow
+        props: {
+            bannerShow: {
+                default : 0
             }
         }
     }
