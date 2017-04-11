@@ -1,8 +1,8 @@
-# 个人博客
+# WispXy
 
 > A Vue.js project
 
-[预览](https://wispys.github.io/Wisper.github.io/dist/)
+[预览](https://wispys.github.io/Wisper/dist/)
 ## Build Setup
 
 ``` bash
